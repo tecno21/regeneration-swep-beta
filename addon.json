@@ -1,0 +1,11 @@
+{
+"title" : "regeneration swep",
+"type" : "weapon",
+"tags" : [ "fun" ],
+"ignore" :
+[
+"*.psd",
+"*.vcpro",
+"*.svn"
+]
+}
