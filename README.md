@@ -1,5 +1,7 @@
 regeneration-swep-beta
 ======================
+a beta version of my regeneration swep on the seam workshop
+get it here: http://steamcommunity.com/sharedfiles/filedetails/?id=313583254
 included features
 ==================
 non admin swep 
