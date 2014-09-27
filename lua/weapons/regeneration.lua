@@ -6,7 +6,7 @@ SWEP.Instructions		= "Left mouse to regenerate male. Right mouse to regenerate f
 --spawn menue
 SWEP.Spawnable = true
 SWEP.AdminOnly = false
-SWEP.Category = "Doctor Who"
+SWEP.Category = "Doctor Who(beta)"
 --primary
 SWEP.Primary.ClipSize		= -1
 SWEP.Primary.DefaultClip	= -1
